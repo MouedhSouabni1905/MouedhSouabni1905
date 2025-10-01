@@ -3,7 +3,7 @@ I'm currently working on a few small projects to improve my skills<br>I like sys
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mouedh-souabni-054834287) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouedh-souabni-054834287) 
 
 # 💻 Tech Stack
 **The languages and technologies I' familiar with:**
