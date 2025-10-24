@@ -1,5 +1,5 @@
 # Me
-I'm currently working on a few small projects to improve my skills<br>I like systems programming and cybersecurity<br>I'm currently learning C and Ruby programming<br>I like playing CTFs
+I'm currently working on a few small projects to improve my skills<br>I like low-level programming and cybersecurity<br>I'm currently learning C and Ruby programming<br>I like playing CTFs<br>**Break stuff and find out**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouedh-souabni-054834287) 
 
